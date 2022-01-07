@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @eun-chae-s
-- 👀 I’m interested in computer science (definitely!), music (especially Kpop), art, psychology, etc.
-- 🌱 Learned: HTML, CSS, JavaScript, Python, React.js, Vue.js, Java
+- 👀 I’m interested in computer science, music, art, psychology, etc.
+- 🌱 Learned: HTML, CSS, JavaScript, Python, React.js, Java, R
+- 🌱 Learning/Review: Vue.js, C
 - 💞️ I’m looking to collaborate on any projects that might bring more convenience!
 - 📫 How to reach me: you can either send me an email through the following address (gonna add soon:))
 
